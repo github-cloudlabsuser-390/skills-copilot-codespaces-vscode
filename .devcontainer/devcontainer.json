@@ -1,0 +1,11 @@
+{
+    //Name this confirguration
+"name": "Codespace for Skills!", 
+"Cistomizations":{
+   "vscode": {
+      "Extensions":[ 
+     "github.copilot"
+      ]
+   }
+}
+}
